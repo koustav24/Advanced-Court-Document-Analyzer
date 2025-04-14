@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.12-brightgreen.svg)
 ![Framework](https://img.shields.io/badge/framework-Streamlit-FF4B4B.svg)
 
-An intelligent tool for extracting precise information from Supreme Court judgment PDFs using advanced text processing techniques. Turn unstructured legal documents into structured, actionable data.
+An intelligent tool for extracting precise information from Court judgment PDFs using advanced text processing techniques. Turn unstructured legal documents into structured, actionable data.
 
 ## ✨ Features
 
