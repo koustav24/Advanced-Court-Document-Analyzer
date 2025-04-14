@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [`LICENSE`](LICENSE ) f
 
 ## 🔮 Future Enhancements
 
-- Add support for more court document types beyond Supreme Court judgments
+- Add support for more court document types beyond Higher Court judgments
 - Implement machine learning for improved entity recognition
 - Add citation network analysis for related judgments
 - Develop a dashboard for visualizing patterns across multiple judgments
